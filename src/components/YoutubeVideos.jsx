@@ -11,7 +11,7 @@ export default function YoutubeVideos() {
         rel="noopener noreferrer"
       >
         <h2 className="text-2xl md:text-3xl font-semibold text-[#174b80] mb-6 cursor-pointer hover:text-[#0f355c] transition">
-          YOUTUBE VIDEOS By Lien Collaborative
+          Youtube Videos By Lien Collaborative
         </h2>
       </a>
 
