@@ -22,8 +22,8 @@ export default function Footer() {
           <div className="mt-4 border-t border-white/40 w-3/4"></div>
 
           <p className="mt-4 text-lg leading-relaxed">
-            The ELNEC INDIA is a national education initiative to improve 
-            palliative care in india supported by Cipla Palliative Care & Training Centre
+            The ELNEC INDIA is a national education Platform adopted for India to improve 
+            palliative nursing supported by APHN and LIEN Collaborative.
           </p>
         </div>
 
@@ -64,7 +64,7 @@ export default function Footer() {
 
             <div className="flex items-center gap-3">
               <FaPhoneAlt size={26} />
-              <span>+1 1504 251 456</span>
+              <span>+91 8800845139 | +91 8448429339 | +91 7042463123</span>
             </div>
           </div>
 

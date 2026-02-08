@@ -34,9 +34,9 @@ export default function Resources() {
       {/* Supreme Court allows ‘living will’ */}
       <section className="w-full bg-green-500">
         <div className="max-w-7xl mx-auto py-8">
-          <h1 className="text-[50px] text-center text-white py-5">
+          {/* <h1 className="text-[50px] text-center text-white py-5">
             Supreme Court allows ‘living will’
-          </h1>
+          </h1> */}
           <p className="text-center text-white py-5">
             In a landmark judgement delivered today, the Supreme Court of India
             has allowed an individual to draft a living will specifying that

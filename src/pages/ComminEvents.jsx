@@ -15,10 +15,10 @@ export default function ComminEvents() {
           {/* Event Card */}
           <div className="bg-white p-8 rounded-lg shadow-md hover:shadow-xl transition">
             <h2 className="text-xl md:text-2xl font-semibold text-[#1d4c7c]">
-              ELNEC Chandigarh
+              ELNEC Shimla and Arunachal Pradesh
             </h2>
             <p className="mt-3 text-gray-600">
-              Upcoming ELNEC training program scheduled in Chandigarh.
+              Upcoming ELNEC training program scheduled in Shimla and Arunachal Pradesh.
             </p>
           </div>
 
@@ -28,7 +28,7 @@ export default function ComminEvents() {
               ELNEC Visakhapatnam
             </h2>
             <p className="mt-3 text-gray-600">
-              ELNEC educational initiative event taking place in Visakhapatnam.
+              ELNEC GMCH chandigarh had 52 participants and were successfully integrated into in ICMR program.
             </p>
           </div>
 

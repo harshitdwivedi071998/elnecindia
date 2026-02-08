@@ -17,8 +17,8 @@ export default function Home() {
         <IntroSection/>
         {/* <GroupCarousel/> */}
         <ElnecGroupsSection/>
-        <AboutSection/>
-        <AboutSection2/>
+        {/* <AboutSection/>
+        <AboutSection2/> */}
         <MemorableMoments/>
         <YoutubeVideos/>
         <QuoteSection/>
