@@ -58,13 +58,8 @@ export default function Footer() {
             </div>
 
             <div className="flex items-center gap-3">
-              <HiOutlineMail size={26} />
-              <span>nileema_db@yahoo.co.in</span>
-            </div>
-
-            <div className="flex items-center gap-3">
               <FaPhoneAlt size={26} />
-              <span>+91 8800845139 | +91 8448429339 | +91 7042463123</span>
+              <span>+91 8800845139 | +91 7042463123</span>
             </div>
           </div>
 
