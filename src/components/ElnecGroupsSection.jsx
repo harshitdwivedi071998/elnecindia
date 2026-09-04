@@ -100,6 +100,14 @@ const locations = [
     name: "Kashmir",
     images: ["/images/kashmir.png", "/images/jaipur1.png"]
   },
+  {
+    name: "Nagaland",
+    images: ["/images/elnec-nagaland.jpeg"]
+  },
+  {
+    name: "Chandigarh",
+    images: ["/images/elnec-chandigarh.jpeg"]
+  },
 ];
 
 
